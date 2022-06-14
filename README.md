@@ -1,5 +1,5 @@
 # LudoGame
-LudoGame made in java, with basic functionalities
+LudoGame made in java, contains save game,write txt file
 
 It is have 3 operations to do:
 
